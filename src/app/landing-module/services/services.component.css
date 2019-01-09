@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Anton|Maven+Pro:500,700);
+
+section {
+    padding-bottom: 120px;
+    padding-top: 100px;
+}
+#services {
+    background-color: rgba(237, 237, 237, 1);
+}
+
+    #services i {
+        font-size: 80px;
+        padding: 30px;
+        color: #FF2276;
+    }
+
+    #services h4 {
+        padding-bottom: 5px;
+        padding-top: 15px;
+    }
